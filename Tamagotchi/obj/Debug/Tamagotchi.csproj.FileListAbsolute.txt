@@ -5,3 +5,10 @@ D:\Аня\Элком стажировка\Tamagotchi\Tamagotchi\obj\Debug\Tamago
 D:\Аня\Элком стажировка\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.csproj.CoreCompileInputs.cache
 D:\Аня\Элком стажировка\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.exe
 D:\Аня\Элком стажировка\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.pdb
+D:\Аня\Элком стажировка\Tamagotchi\bin\Debug\Tamagotchi.exe.config
+D:\Аня\Элком стажировка\Tamagotchi\bin\Debug\Tamagotchi.exe
+D:\Аня\Элком стажировка\Tamagotchi\bin\Debug\Tamagotchi.pdb
+D:\Аня\Элком стажировка\Tamagotchi\obj\Debug\Tamagotchi.csproj.AssemblyReference.cache
+D:\Аня\Элком стажировка\Tamagotchi\obj\Debug\Tamagotchi.csproj.CoreCompileInputs.cache
+D:\Аня\Элком стажировка\Tamagotchi\obj\Debug\Tamagotchi.exe
+D:\Аня\Элком стажировка\Tamagotchi\obj\Debug\Tamagotchi.pdb

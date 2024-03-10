@@ -2,8 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
-using static Tamagotchi.Pet;
+//using Pet;
+
 
 namespace Tamagotchi
 {
@@ -11,11 +13,14 @@ namespace Tamagotchi
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("##############################################################\n" +
-                "##############################DOG#############################\n\n");
-            Console.WriteLine("Pet's name: ");
-            Pet pet = new Pet();
-            //pet. = Console.ReadLine();
+            // Создание экземпляра класса TamagotchiCondition.
+            TamagotchiCondition tamagotchiCondition = new TamagotchiCondition();
+            // Создание экземпляра класса Tamagotchi.
+            Tamagotchi tamagotchi = new Tamagotchi();
+            tamagotchiCondition.PrintInformationPet(tamagotchi);
+            
         }
+
+        
     }
 }

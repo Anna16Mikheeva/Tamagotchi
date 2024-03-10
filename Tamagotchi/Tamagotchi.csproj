@@ -43,7 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Pet.cs" />
+    <Compile Include="TamagotchiCondition.cs" />
+    <Compile Include="ITamagotchiActions.cs" />
+    <Compile Include="Tamagotchi.cs" />
+    <Compile Include="TamagotchiActions.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
